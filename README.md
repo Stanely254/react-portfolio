@@ -1,16 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-##React portfolio starter
-A React based personal portfolio app using create-react-app and React Router
-
-##Tools
-create-react-app cli
-React MDL material design
-React Router v4
-
 ## Available Scripts
 
 In the project directory, you can run:
+
+##React portfolio starter
+  -A React based personal portfolio app using create-react-app and React Router
+
+##Tools
+  -create-react-app cli
+  -React MDL material design
+  -React Router
 
 ### `npm start`
 
